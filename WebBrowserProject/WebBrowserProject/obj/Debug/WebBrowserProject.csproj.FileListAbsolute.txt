@@ -1,0 +1,11 @@
+D:\anul2\medii\proiect\WebBrowserProject\WebBrowserProject\bin\Debug\WebBrowserProject.exe.config
+D:\anul2\medii\proiect\WebBrowserProject\WebBrowserProject\bin\Debug\WebBrowserProject.exe
+D:\anul2\medii\proiect\WebBrowserProject\WebBrowserProject\bin\Debug\WebBrowserProject.pdb
+D:\anul2\medii\proiect\WebBrowserProject\WebBrowserProject\obj\Debug\WebBrowserProject.csproj.AssemblyReference.cache
+D:\anul2\medii\proiect\WebBrowserProject\WebBrowserProject\obj\Debug\WebBrowserProject.Form1.resources
+D:\anul2\medii\proiect\WebBrowserProject\WebBrowserProject\obj\Debug\WebBrowserProject.Properties.Resources.resources
+D:\anul2\medii\proiect\WebBrowserProject\WebBrowserProject\obj\Debug\WebBrowserProject.csproj.GenerateResource.cache
+D:\anul2\medii\proiect\WebBrowserProject\WebBrowserProject\obj\Debug\WebBrowserProject.csproj.CoreCompileInputs.cache
+D:\anul2\medii\proiect\WebBrowserProject\WebBrowserProject\obj\Debug\WebBrowserProject.exe
+D:\anul2\medii\proiect\WebBrowserProject\WebBrowserProject\obj\Debug\WebBrowserProject.pdb
+D:\anul2\medii\proiect\WebBrowserProject\WebBrowserProject\obj\Debug\WebBrowserProject.KeyWordManagerForm.resources
